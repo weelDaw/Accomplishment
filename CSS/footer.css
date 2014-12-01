@@ -1,0 +1,9 @@
+#footer{
+    height: 50px;
+    width:950px;
+    margin-top:73%;
+    background: linear-gradient(top, #5bc0de, #c4e3f3);
+    background: -moz-linear-gradient(top, #5bc0de, #c4e3f3);
+    background: -webkit-linear-gradient(top, #5bc0de, #c4e3f3);
+    background: -o-linear-gradient(top, #5bc0de, #c4e3f3);
+}

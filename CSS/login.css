@@ -1,0 +1,29 @@
+body{
+    background-color: #252525;
+}
+table, #open_registration{
+    margin:auto;
+    width: 500px;
+    /*background-color: #bce8f1;*/
+    background: linear-gradient(top, #a9dba9, #bce8f1);
+    background: -moz-linear-gradient(top, #5bc0de, #bce8f1);
+    background: -webkit-linear-gradient(top, #a9dba9, #bce8f1);
+    background: -o-linear-gradient(top, #5bc0de, #bce8f1);
+    border-radius: 30px;
+    margin-top: 50px;
+}
+table td, th{
+    padding: 10px;
+}
+table tr td input{
+    text-align: center;
+}
+table tr td{
+    font-family: Arial Courier;
+    font-weight: bold;
+}
+.alerto, #err_msg{
+    background-color: #252525;
+    color:#62c462;
+    padding: 5px;
+}

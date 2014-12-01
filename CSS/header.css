@@ -1,0 +1,42 @@
+#header{
+    height: 60px;
+    width:950px;
+    background: linear-gradient(top, #62c462, #c4e3f3);
+    background: -moz-linear-gradient(top, #62c462, #c4e3f3);
+    background: -webkit-linear-gradient(top, #62c462, #c4e3f3);
+    background: -o-linear-gradient(top, #62c462, #c4e3f3);
+    text-align: center;
+    /*padding-top: 25px;*/
+}
+#header a{
+    padding: 10px;
+    color: #005580;
+    /*background-color: #f2dede;*/
+    cursor: pointer;
+    /*border-radius: 10px 80px 40px 80px;*/
+    border-radius: 80px;
+    /*margin-bottom: 20px;*/
+}
+/*#header a:hover{
+    background-color: #49afcd;
+}*/
+/*#header .active{
+    background-color: #0088cc;
+}*/
+#header #logout img{
+    width: 30px;
+    height: 20px;
+}
+#logout{
+    float: right;
+}
+#header a img{
+width: 50px;
+height: 50px;
+
+    }
+/*
+#header #home2{
+    margin-top:-10px;
+    display: none;
+}*/
